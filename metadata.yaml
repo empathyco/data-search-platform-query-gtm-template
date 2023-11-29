@@ -2,7 +2,7 @@ homepage: "www.empathy.co",
 documentation: "https://www.empathy.co/docs",
 versions:
     #Latest Version
-  - sha: 99ede0773ba4f8be663c7f443bd214aabe75398e
+  - sha: e6508e71416d7f046a44c53e4c6f11aad73ace0c
     changeNotes: Support Empathy platform and SaaS URI's on different environments
 
     
