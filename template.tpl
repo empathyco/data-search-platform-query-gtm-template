@@ -14,7 +14,7 @@ ___INFO___
   "version": 1,
   "securityGroups": [],
   "displayName": "Empathy Platform - Search query",
-  "Categories": ["ANALYTICS", "PERSONALIZATION"],
+  "categories": ["ANALYTICS", "PERSONALIZATION"],
   "brand": {
     "id": "brand_dummy",
     "displayName": "",
