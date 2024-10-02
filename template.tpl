@@ -1,4 +1,4 @@
-﻿___TERMS_OF_SERVICE___
+___TERMS_OF_SERVICE___
 
 By creating or modifying this file you agree to Google Tag Manager's Community
 Template Gallery Developer Terms of Service available at
@@ -14,6 +14,7 @@ ___INFO___
   "version": 1,
   "securityGroups": [],
   "displayName": "Empathy Platform - Search query",
+  "Categories": ["ANALYTICS", "PERSONALIZATION"],
   "brand": {
     "id": "brand_dummy",
     "displayName": "",
@@ -556,6 +557,6 @@ scenarios: []
 
 ___NOTES___
 
-Created on 29/11/2023, 12:00:26
+Created on 24/9/2024, 12:50:24
 
 
